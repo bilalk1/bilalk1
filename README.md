@@ -107,3 +107,5 @@ Experienced Full-stack Backend-heavy developer with 6+ years of expertise in the
 - 📩 Email: [bilaalahmaad1@gmail.com](mailto:bilaalahmaad1@gmail.com)  
 - 🌍 LinkedIn: [Bilal Iftikhar](https://www.linkedin.com/in/bilal-iftikhar/)  
 - 🌟 GitHub: [bilalk1](https://github.com/bilalk1)
+- <img width="820" alt="Screenshot 2024-11-21 at 1 02 17 AM" src="https://github.com/user-attachments/assets/d93e9c48-406a-4f59-b9fb-f9628a0817fb">
+
