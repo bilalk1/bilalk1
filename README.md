@@ -4,13 +4,13 @@
 **Name:** BILAL IFTIKHAR  
 **Email:** bilaalahmaad1@gmail.com,iftikhar.bilal.official@gmail.com
 **GitHub:** [https://github.com/bilalk1](https://github.com/bilalk1)  
-**Specialization:** Node.js | React.js | MERN (BE+)
+**Specialization:** Node.js | React.js | MERN | MEAN (BE+)(FE)
 
 ---
 
 ### 🌟 SUMMARY
 
-Experienced Full-stack Backend-heavy developer with 6+ years of expertise in the MERN stack, utilizing cutting-edge technologies such as Node.js, React, and TypeScript. Specializes in delivering high-quality software solutions within tight deadlines, focusing on code quality and user experience. Skilled collaborator with a proven track record of delivering solutions that meet business requirements.
+Experienced Full-stack Backend-heavy developer with 9+ years of expertise in the MERN stack, utilizing cutting-edge technologies such as Node.js, React, and TypeScript. Specializes in delivering high-quality software solutions within tight deadlines, focusing on code quality and user experience—skilled collaborator with a proven track record of delivering solutions that meet business requirements.
 
 ---
 
