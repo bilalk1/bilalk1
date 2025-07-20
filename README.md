@@ -2,8 +2,7 @@
 
 **Phone:** +92-323-4431272  
 **Name:** BILAL IFTIKHAR  
-**Email:** bilaalahmaad1@gmail.com  
-**LinkedIn:** [https://www.linkedin.com/in/bilal-iftikhar/](https://www.linkedin.com/in/bilal-iftikhar/)  
+**Email:** bilaalahmaad1@gmail.com,iftikhar.bilal.official@gmail.com
 **GitHub:** [https://github.com/bilalk1](https://github.com/bilalk1)  
 **Specialization:** Node.js | React.js | MERN (BE+)
 
@@ -104,8 +103,7 @@ Experienced Full-stack Backend-heavy developer with 6+ years of expertise in the
 
 ### 📈 Let's Connect!
 
-- 📩 Email: [bilaalahmaad1@gmail.com](mailto:bilaalahmaad1@gmail.com)  
-- 🌍 LinkedIn: [Bilal Iftikhar](https://www.linkedin.com/in/bilal-iftikhar/)  
+- 📩 Email: [bilaalahmaad1@gmail.com](mailto:bilaalahmaad1@gmail.com) [iftikhar.bilal.official@gmail.com](mailto:iftikhar.bilal.official@gmail.com) 
 - 🌟 GitHub: [bilalk1](https://github.com/bilalk1)
 - <img width="820" alt="Screenshot 2024-11-21 at 1 02 17 AM" src="https://github.com/user-attachments/assets/d93e9c48-406a-4f59-b9fb-f9628a0817fb">
 
