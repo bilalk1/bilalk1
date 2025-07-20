@@ -43,32 +43,6 @@ Experienced Full-stack Backend-heavy developer with 9+ years of expertise in the
 
 ---
 
-### 💼 WORK EXPERIENCE
-
-#### **NCLE | Sep 2023 - Present**  
-**Senior Full Stack Engineer**  
-- Created an ed-tech product from scratch for students, guardians, and personnel.  
-- Onboarded 5 schools in Saudi Arabia, with a target of 10,000 schools, while driving product development and customer engagement.
-
-#### **TAMM Abu Dhabi | Aug 2022 - Aug 2023 (1.1 Years)**  
-**Lead Software Engineer**  
-- Worked on the Locker, Tamm-2.0 UI, and integrated ADGEs into existing modules.
-
-#### **Retailo | Jul 2020 - Aug 2022 (2.2 Years)**  
-**Software Engineer**  
-- Led a team of 8-10 and improved search functionality and legacy code.  
-- Contributed to a 100% increase in monthly orders, from 50k to 100k, while designing infrastructure and reducing production bugs.
-
-#### **Arbisoft | Jul 2018 - Jun 2020 (2 Years)**  
-**Junior Software Engineer**  
-- Worked on various projects, improving functionality and optimizing performance.
-
-#### **Frizhub | Jan 2018 - Jun 2018 (6 Months)**  
-**Junior Software Engineer**  
-- Assisted in developing software solutions and handling code maintenance.
-
----
-
 ### 💻 PROJECTS
 
 #### **[NCLE](https://hessa.com.sa/)**
